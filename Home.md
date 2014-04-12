@@ -5,5 +5,6 @@
 ### Windows
 * [[Changing the Name of a Windows PC]]
 
-## Setting up systems
+## Setting up systems  
+### Hospital Systems
 * [[Cloning a Hospital System With Clonezilla]]
