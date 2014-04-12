@@ -33,3 +33,10 @@ Italics in this wiki are used for much the same purpose as they are out in the r
 * Making a note of something
    * " Open the disc tray  
    *If it does not open the first time do not try to pry it open* "
+
+
+
+{{{{{{ blue-modern
+  alice->bob: Test
+  bob->alice: Test response
+}}}}}}
