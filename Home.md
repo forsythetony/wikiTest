@@ -5,5 +5,5 @@
 ### Windows
 * [[Changing the Name of a Windows PC]]
 
-## Cloning Guides
+## Setting up systems
 * [[Cloning a Hospital System With Clonezilla]]
