@@ -1,3 +1,8 @@
+This is a quick tutorial I threw together to show how gifs and images might be used in these guides. 
+
+
+***
+
 1. Open `System Preferences`
    * If you cannot find `System Preferences` then while at your desktop hit `Command+Spacebar` then enter `System Preferences`. It should show up in the list.
   
@@ -11,4 +16,4 @@
 4. Once a folder is selected, you will be able to select from any of the images contained to set as your background. 
 5. Simply double clicking on any of the images displayed in the selection will set it as your background.
 
-### Done
+### Done!
