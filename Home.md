@@ -1,9 +1,13 @@
+[[_TOC_]]
+
 ## Basic Guides
 ### General
-* A general guide
+##### [[Changing the Name of a Windows PC]]
 
 ### Windows
-* [[Changing the Name of a Windows PC]]
+#### [[Changing the Name of a Windows PC]]
+#### [[Windows Shortcut Keys]]
+
 
 ## Setting up systems  
 ### Hospital Systems
