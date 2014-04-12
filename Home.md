@@ -9,6 +9,8 @@
 ##### [[Changing the Name of a Windows PC]]
 ##### [[Windows Shortcut Keys]]
 
+### Mac
+##### [[Changing the Desktop Background (with images and animations)|Changing the Desktop Background on a Mac]]
 
 ## Setting Up and Configuring New Systems
 ### Hospital Systems
