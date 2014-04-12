@@ -3,13 +3,13 @@
 ##### [[Understanding the Syntax]]
 ## Basic Guides
 ### General
-##### [[Changing the Name of a Windows PC]]
+##### [[Connecting a System for Use]]
 
 ### Windows
 ##### [[Changing the Name of a Windows PC]]
 ##### [[Windows Shortcut Keys]]
 
 
-## Setting up systems  
+## Setting Up and Configuring New Systems
 ### Hospital Systems
 ##### [[Cloning a Hospital System With Clonezilla]]
