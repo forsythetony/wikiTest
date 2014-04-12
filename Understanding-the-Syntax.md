@@ -36,7 +36,3 @@ Italics in this wiki are used for much the same purpose as they are out in the r
 
 
 
-{{{{{{ blue-modern
-  alice->bob: Test
-  bob->alice: Test response
-}}}}}}
