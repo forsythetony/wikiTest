@@ -12,3 +12,5 @@
 * When Windows has restarted log back in to the MU ENGR CERT HOSP Kinect account
 * **Note:**  
    Changing the system name here changes the name in Active Directory. Before you can clone the next system you will need to recreate the original account (CERT-HOSP-001) in the Active Directory so the machine can join the domain after it is restored.
+
+Here is an image [[testingShot.png]]
