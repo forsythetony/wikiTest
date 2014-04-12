@@ -24,7 +24,7 @@ This article will show you how to remove and clean the keys on an aluminum Mac k
 
    [[http://i.imgur.com/WkvsoqE.gif|align=center]]
 
-### 5. To reassemble, place piece #2 back into keyboard. The the number should be on top and on the left as shown.
+### 5. To reassemble, place piece #2 back into keyboard. Use the number as a guide to orient as shown below.
 
    [[http://i.imgur.com/SgfQc1t.jpg|align=center]]
 
