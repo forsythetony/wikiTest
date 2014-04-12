@@ -10,4 +10,5 @@
    [[http://i.imgur.com/I12t6xc.jpg|align=center]]
 4. Once a folder is selected, you will be able to select from any of the images contained to set as your background. 
 5. Simply double clicking on any of the images displayed in the selection will set it as your background.
+
 ### Done
