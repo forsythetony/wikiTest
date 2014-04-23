@@ -33,5 +33,5 @@
 1. Restart the computer
 1. Wait for Windows 8.1 to start up. This could take a while the first time since it will have to get the devices set up. Eventually it should automatically log on to the desktop, start the sensor logger applications, and then lock the desktop.
 1. Log into Windows using the TP Sensor Monitor account to make sure the system is working correctly. 
-1. Customize the settings for this computer
+1. Refer to the guide [[Setting Up a Cloned Hospital Computer]] to customize the settings for this computer
 1. Turn off the computer and move on to the next one
