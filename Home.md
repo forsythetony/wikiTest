@@ -16,4 +16,3 @@
 ### Hospital Systems
 ##### [[Cloning a Hospital System With Clonezilla]]
 ##### [[OFFICIAL - Cloning a CERT Sensor Monitor with Clonezilla|Cloning a CERT Sensor Monitor with Clonezilla]]
-* [[OFFICIAL - Setting Up a Cloned Hospital Computer|Setting Up a Cloned Hospital Computer]]
