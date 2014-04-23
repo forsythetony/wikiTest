@@ -15,3 +15,4 @@
 ## Setting Up and Configuring New Systems
 ### Hospital Systems
 ##### [[Cloning a Hospital System With Clonezilla]]
+##### [[OFFICIAL - Cloning a CERT Sensor Monitor with Clonezilla|Cloning a CERT Sensor Monitor with Clonezilla]]
