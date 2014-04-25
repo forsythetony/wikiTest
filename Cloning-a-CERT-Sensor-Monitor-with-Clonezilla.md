@@ -22,7 +22,7 @@
 1. Press `Enter` to accept Beginner Mode
 1. Use the arrow keys to seelct restoredisk - Restore an image to a local disk then press `Enter`
 1. Use the arrow keys to select **Hosp-Disk_YYY-MM-DD_hh-mm** (the file with the latest date) then press `Enter`
-1. Use the arrow keys to select the only internal drive in the computer (something like **500GB_WDC_WD5000BPVT-2) for overwriting then press `Enter`
+1. Use the arrow keys to select the only internal drive in the computer (something like **500GB_WDC_WD5000BPVT-2**) for overwriting then press `Enter`
 1. Note the command being run and press `Enter`
 1. Type `y` then press `Enter` to confirm overwriting the drive
 1. Type `y` then press `Enter` again to re-confirm overwriting the drive
